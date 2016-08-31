@@ -1,5 +1,7 @@
 ---
-datePublished: '2016-08-29T08:59:06.693Z'
+datePublished: '2016-08-29T08:59:33.753Z'
+sourcePath: _posts/2016-08-29-broken-by-lost-pilots.md
+inFeed: true
 isBasedOnUrl: 'https://soundcloud.com/lostpilots/broken'
 keywords: []
 related: []
@@ -8,7 +10,7 @@ author:
     url: 'http://soundcloud.com/lostpilots'
     avatar: {}
 via: {}
-dateModified: '2016-08-29T08:58:39.384Z'
+dateModified: '2016-08-29T08:59:33.175Z'
 title: ''
 app_links:
   - type: ios
@@ -50,10 +52,6 @@ app_links:
 publisher: {}
 description: ''
 starred: false
-sourcePath: _posts/2016-08-29-broken-by-lost-pilots.md
-inFeed: true
-hasPage: false
-inNav: false
 _context: 'http://schema.org'
 _type: AudioObject
 
