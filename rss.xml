@@ -4,7 +4,7 @@
         <description><![CDATA[lost pilots]]></description>
         <link>https://thegrid.ai/lost-pilots/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Aug 2016 08:59:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Aug 2016 09:01:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/lost-pilots/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Broken by LOST PILOTS]]></title>
@@ -12,13 +12,6 @@
             <link>https://soundcloud.com/lostpilots/broken</link>
             <guid isPermaLink="false">176abae1-ebeb-40eb-be57-240c41521bdb</guid>
             <pubDate>Mon, 29 Aug 2016 08:59:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eab3bf25-34e1-41b6-93e4-6c6458b2fd9b.jpg">]]></description>
-            <link>https://thegrid.ai/lost-pilots/cd52ca75-ac8e-4ff1-b971-d837a25fedfd/index.html</link>
-            <guid isPermaLink="false">cd52ca75-ac8e-4ff1-b971-d837a25fedfd</guid>
-            <pubDate>Mon, 29 Aug 2016 08:51:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
