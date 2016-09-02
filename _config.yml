@@ -1,6 +1,19 @@
+name: lost pilots
+favicon: null
+layout_spectrum: 0.0004500469658523798
 typography_spectrum: 0.23347451188601553
-content_rating:
-  adult: false
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#3C493F'
@@ -12,20 +25,4 @@ color:
   lightness: 0.7497759512625635
   saturation: 0.4487582293804735
   rhythmicContrast: 0.09174567926675081
-opengraph:
-  image: null
-  type: null
-  appId: null
-layout_spectrum: 0.0004500469658523798
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-name: lost pilots
-cta:
-  domain: null
-  bucket: null
-  version: null
-favicon: null
-title: very very dark
 purpose: []
